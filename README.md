@@ -1,2 +1,11 @@
-# Python-Scripts
-A collection of Python scripts designed to simplify Digital Forensics and Incident Response (DFIR) and Cyber Threat Intelligence (CTI) tasks.
+# Java Script Beautifier
+This script reads the specified JavaScript file, beautifies it using the options you set (here, an indent size of 4 spaces), and either prints the result or writes it to an output file if provided. You can further customize the opts variable for additional formatting options as detailed in the jsbeautifier documentation.
+
+# How to use the python script?
+1. Save the Script:
+   Save the script to a file named beautify_js.py or anything you want
+2. Run the Script from the Command Line:
+   To print the beautified code to the terminal:
+   python beautify_js.py path/to/your/input.js
+3. To save the beautified code to an output file:
+   python beautify_js.py path/to/your/input.js path/to/your/output.js
