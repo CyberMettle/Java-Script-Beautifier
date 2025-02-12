@@ -4,8 +4,8 @@ This script reads the specified JavaScript file, beautifies it using the options
 # How to use the python script?
 1. Save the Script:<br>
    Save the script to a file named beautify_js.py or anything you want
-2. Run the Script from the Command Line:
-   To print the beautified code to the terminal:
-   python beautify_js.py path/to/your/input.js
-3. To save the beautified code to an output file:
+2. Run the Script from the Command Line:<br>
+   To print the beautified code to the terminal:<br>
+   python beautify_js.py path/to/your/input.js<br>
+3. To save the beautified code to an output file:<br>
    python beautify_js.py path/to/your/input.js path/to/your/output.js
