@@ -2,7 +2,7 @@
 This script reads the specified JavaScript file, beautifies it using the options you set (here, an indent size of 4 spaces), and either prints the result or writes it to an output file if provided. You can further customize the opts variable for additional formatting options as detailed in the jsbeautifier documentation.
 
 # How to use the python script?
-1. Save the Script:
+1. Save the Script:<br>
    Save the script to a file named beautify_js.py or anything you want
 2. Run the Script from the Command Line:
    To print the beautified code to the terminal:
